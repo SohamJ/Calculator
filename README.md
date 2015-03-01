@@ -1,2 +1,2 @@
 # Calculator
-Scientific Calculator MD for Android
+Calculator MD for Android
